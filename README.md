@@ -1,2 +1,2 @@
 ## purecloudhost
-https://adnanibnamotin.github.io/purecloudhost/
+https://adnanibnamotin.github.io/Purecloudhost/
